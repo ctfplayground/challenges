@@ -1,0 +1,15 @@
+https://storage.googleapis.com/b0ctf-deploy/chugga_chugga.tgz
+https://storage.googleapis.com/b0ctf-deploy/dank_engine.tgz
+https://storage.googleapis.com/b0ctf-deploy/digital_sloth.tgz
+https://storage.googleapis.com/b0ctf-deploy/train_arms.tgz
+https://storage.googleapis.com/b0ctf-deploy/little_engine.tgz
+https://storage.googleapis.com/b0ctf-deploy/compression.tgz
+https://storage.googleapis.com/b0ctf-deploy/spirit_tracks.tgz
+https://storage.googleapis.com/b0ctf-deploy/stahp_the_train.tgz
+https://storage.googleapis.com/b0ctf-deploy/what_the_elf.tgz
+https://storage.googleapis.com/b0ctf-deploy/trolley.tgz
+https://storage.googleapis.com/b0ctf-deploy/derailed.tgz
+https://storage.googleapis.com/b0ctf-deploy/prerailed.tgz
+https://storage.googleapis.com/b0ctf-deploy/railed.tgz
+https://storage.googleapis.com/b0ctf-deploy/hypercomputer.tgz
+https://storage.googleapis.com/b0ctf-deploy/hypercomputer_2.tgz

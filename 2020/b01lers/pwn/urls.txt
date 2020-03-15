@@ -1,0 +1,8 @@
+https://storage.googleapis.com/b0ctf-deploy/jumpdrive.tgz
+https://storage.googleapis.com/b0ctf-deploy/meshuggah-2.tgz
+https://storage.googleapis.com/b0ctf-deploy/tweet-raider.tgz
+https://storage.googleapis.com/b0ctf-deploy/black-hole.tgz
+https://storage.googleapis.com/b0ctf-deploy/kobayashi-maru.tgz
+https://storage.googleapis.com/b0ctf-deploy/blind-piloting.tgz
+https://storage.googleapis.com/b0ctf-deploy/blind-piloting.tgz
+
